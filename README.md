@@ -1,5 +1,5 @@
 # Hi, I'm Reigh ✌️
-> Nothing Special here btw 🤫
+> Nothing of value, but it's early! 🤫
 
 ### Contact 📩
 - [Instagram](https://instagram.com/muh.khadaffy)
