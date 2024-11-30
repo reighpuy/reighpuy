@@ -1,13 +1,9 @@
 <h1 align="center">Reighpuy</h1>
-
-- 📫 How to reach me **https://www.linkedin.com/in/reighpuy/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/reighpuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reighpuy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@reighpuy2820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@reighpuy2820" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reighpuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reighpuy" height="30" width="40" /></a>
 <a href="https://discord.com/users/415466692064313344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/415466692064313344" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reighpuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reighpuy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reighpuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reighpuy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
